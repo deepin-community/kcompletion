@@ -1,0 +1,5 @@
+usr/include/KF5/KCompletion/
+usr/include/KF5/kcompletion_version.h
+usr/lib/*/cmake/KF5Completion/
+usr/lib/*/libKF5Completion.so
+usr/lib/*/qt5/mkspecs/modules/qt_KCompletion.pri
