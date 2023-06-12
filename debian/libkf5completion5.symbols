@@ -31,11 +31,7 @@ libKF5Completion.so.5 libkf5completion5 #MINVER#
  _ZN11KCompletionD0Ev@Base 4.97.0
  _ZN11KCompletionD1Ev@Base 4.97.0
  _ZN11KCompletionD2Ev@Base 4.97.0
- _ZN13KCompTreeNode6insertERK5QCharb@Base 4.97.0
- _ZN13KCompTreeNode6removeERK7QString@Base 4.97.0
  _ZN13KCompTreeNode7m_allocE@Base 4.98.0
- _ZN13KCompTreeNodeD1Ev@Base 4.97.0
- _ZN13KCompTreeNodeD2Ev@Base 4.97.0
  _ZN14KCompletionBox10setVisibleEb@Base 4.97.0
  _ZN14KCompletionBox11eventFilterEP7QObjectP6QEvent@Base 4.97.0
  _ZN14KCompletionBox11insertItemsERK11QStringListi@Base 4.97.0
@@ -106,10 +102,6 @@ libKF5Completion.so.5 libkf5completion5 #MINVER#
  _ZN16KHistoryComboBoxD0Ev@Base 4.97.0
  _ZN16KHistoryComboBoxD1Ev@Base 4.97.0
  _ZN16KHistoryComboBoxD2Ev@Base 4.97.0
- _ZN17KCompTreeNodeList6appendEP13KCompTreeNode@Base 4.97.0
- _ZN17KCompTreeNodeList6insertEP13KCompTreeNodeS1_@Base 4.97.0
- _ZN17KCompTreeNodeList6removeEP13KCompTreeNode@Base 4.97.0
- _ZN17KCompTreeNodeList7prependEP13KCompTreeNode@Base 4.97.0
  _ZN18KCompletionMatches16removeDuplicatesEv@Base 4.97.0
  _ZN18KCompletionMatchesC1ERK25KCompletionMatchesWrapper@Base 4.97.0
  _ZN18KCompletionMatchesC1ERKS_@Base 4.97.0
@@ -120,9 +112,6 @@ libKF5Completion.so.5 libkf5completion5 #MINVER#
  _ZN18KCompletionMatchesD1Ev@Base 4.97.0
  _ZN18KCompletionMatchesD2Ev@Base 4.97.0
  _ZN18KCompletionMatchesaSERKS_@Base 4.97.0
- _ZN25KCompletionMatchesWrapper18findAllCompletionsEPK13KCompTreeNodeRK7QStringbRb@Base 4.99.0
- _ZN25KCompletionMatchesWrapper22extractStringsFromNodeEPK13KCompTreeNodeRK7QStringb@Base 4.99.0
- _ZN25KCompletionMatchesWrapper24extractStringsFromNodeCIEPK13KCompTreeNodeRK7QStringS5_@Base 4.99.0
  _ZN9KComboBox10completionERK7QString@Base 4.97.0
  _ZN9KComboBox10rotateTextEN15KCompletionBase14KeyBindingTypeE@Base 4.97.0
  _ZN9KComboBox10setEditUrlERK4QUrl@Base 4.97.0
@@ -249,10 +238,8 @@ libKF5Completion.so.5 libkf5completion5 #MINVER#
  _ZNK16KHistoryComboBox12historyItemsEv@Base 4.97.0
  _ZNK16KHistoryComboBox13useCompletionEv@Base 4.97.0
  _ZNK16KHistoryComboBox14pixmapProviderEv@Base 4.97.0
- _ZNK17KCompTreeNodeList2atEj@Base 4.97.0
  _ZNK18KCompletionMatches4listEb@Base 4.97.0
  _ZNK18KCompletionMatches7sortingEv@Base 4.97.0
- _ZNK25KCompletionMatchesWrapper4listEv@Base 4.97.0
  _ZNK9KComboBox10metaObjectEv@Base 4.97.0
  _ZNK9KComboBox11contextMenuEv@Base 5.78.0
  _ZNK9KComboBox13trapReturnKeyEv@Base 4.97.0

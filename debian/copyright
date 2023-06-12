@@ -28,9 +28,9 @@ Copyright: 2007, Aaron Seigo <aseigo@kde.org>
            2001, translate.org.za
 License: LGPL-2+
 
-Files: po/ca/kcompletion5_qt.po
-       po/ca@valencia/kcompletion5_qt.po
-       po/uk/kcompletion5_qt.po
+Files: poqm/ca/kcompletion5_qt.po
+       poqm/ca@valencia/kcompletion5_qt.po
+       poqm/uk/kcompletion5_qt.po
 Copyright: 2014, This_file_is_part_of_KDE
 License: LGPL-2.1+3+KDEeV
 
@@ -39,7 +39,7 @@ Files: autotests/kcompletioncoretest.cpp
 Copyright: 2005, Thomas Braxton <brax108@cox.net>
 License: LGPL-2
 
-Files: po/bg/kcompletion5_qt.po
+Files: poqm/bg/kcompletion5_qt.po
 Copyright: 2009-2013, Yasen Pramatarov <yasen@lindeas.com>
            2006-2009, Zlatko Popov <zlatkopopov@fsa-bg.org>
 License: GPL
